@@ -1,0 +1,13 @@
+show
+info
+add
+Arson
+47
+13
+17
+CHAPLAIN
+PLASMA_GUN
+POWER_SWORD
+BloodFist
+
+info

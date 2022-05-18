@@ -1,0 +1,33 @@
+<Spacemarine>
+  <id>1</id>
+  <name>Markus</name>
+  <cords>76.0   15.0</cords>
+  <date>2022.03.21</date>
+  <hp>41</hp>
+  <category>HELIX</category>
+  <weapon>COMBI_FLAMER</weapon>
+  <mele>POWER_SWORD</mele>
+  <chapter>BloodAngels from Vaal</chapter>
+</Spacemarine>
+<Spacemarine>
+  <id>2</id>
+  <name>Daemon</name>
+  <cords>7.0   55.0</cords>
+  <date>2022.03.21</date>
+  <hp>39</hp>
+  <category>CHAPLAIN</category>
+  <weapon>BOLTGUN</weapon>
+  <mele>MANREAPER</mele>
+  <chapter>BlackFist from Terra</chapter>
+</Spacemarine>
+<Spacemarine>
+  <id>3</id>
+  <name>Harald</name>
+  <cords>13.0   96.0</cords>
+  <date>2022.03.21</date>
+  <hp>40</hp>
+  <category>HELIX</category>
+  <weapon>HEAVY_BOLTGUN</weapon>
+  <mele>CHAIN_SWORD</mele>
+  <chapter>BloodAngels from Vaal</chapter>
+</Spacemarine>
